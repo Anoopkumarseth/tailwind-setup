@@ -1,7 +1,7 @@
-# tailwind-setup
+# Basic Tailwind Setup
 
--i css-src/style.css -o css/style.css --watch
+-> npm install -D tailwindcss
 
-npm install -D tailwindcss
+-> npx tailwindcss init
 
-npx tailwindcss init
+-> -i css-src/style.css -o css/style.css --watch
