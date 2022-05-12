@@ -4,4 +4,4 @@
 
 -> npx tailwindcss init
 
--> -i css-src/style.css -o css/style.css --watch
+-> npx tailwindcss -i css-src/style.css -o css/style.css --watch
